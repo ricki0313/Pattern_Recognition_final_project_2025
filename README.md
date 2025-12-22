@@ -19,7 +19,7 @@ Due to file size and licensing considerations, raw data and generated feature fi
 To reproduce the features:
 1. Download the Online Retail II dataset from the UCI Machine Learning Repository:
     https://archive.ics.uci.edu/dataset/502/online+retail+ii
-2. Place the raw CSV file under `data/raw/`.
+2. Place the raw XLSX file under `data/raw/`.
 3. Run the data cleaning and aggregation notebooks in order.
 
 
