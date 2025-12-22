@@ -1,1 +1,9 @@
-W1_Data cleaning, aggregation, visualization/online_retail_II.xlsx
+data/raw/online_retail_II.xlsx
+data/processed/clean_retail.parquet
+data/processed/customer_features.csv
+data/processed/labeled_features.csv
+data/processed/pca_3d_features.csv
+data/processed/scaled_customer_features.csv
+w5_findings_analysis_report/PR_final.pptx
+w5_findings_analysis_report/PR_final.pptx
+PR_final_report.docx
