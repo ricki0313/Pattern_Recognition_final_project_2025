@@ -11,6 +11,13 @@ This project uses the UCI Online Retail II dataset to explore how pattern recogn
 - w4_Supervised learning method (compare LDA, KNN, Naive Gaussian)
 - w5_Findings, analysis, and report
 
+## Setup (Windows / PowerShell)
+```bash
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
 ## Dataset and Features
 The customer-level features used in this project are generated from the raw Online Retail II dataset.
 
