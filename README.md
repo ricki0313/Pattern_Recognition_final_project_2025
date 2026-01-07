@@ -1,7 +1,7 @@
-# Pattern Recognition for Customer Behavior Analysis  
+# Pattern Recognition for Customer Segmentation and High-Value Customer Identification Using Historical Transaction Data   
 *A Study Using the UCI Online Retail II Dataset*
 
-This project uses the UCI Online Retail II dataset to explore how pattern recognition (PR) methods behave when grouping and classifying customer behavior. By building features, reducing dimensions, visualizing the data, and analyzing errors, this study evaluates how well different models explain the structure of the data and how useful they are in practice.
+This project applies pattern recognition (PR) methods to the UCI Online Retail II dataset to analyze and understand existing customer behavior. Based on historical transaction records, we construct customer-level features, perform unsupervised clustering to uncover natural customer segments. We then evaluate supervised classification models to assess how well they can recognize these customer groups. The study focuses on how classical PR techniques represent, distinguish, and explain meaningful differences within the existing customer base.
 
 ## Structure
 
